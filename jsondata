@@ -1,0 +1,716 @@
+[
+    {
+        "id": "gh3Xg3e1",
+        "name": "Hanuman Chalisa",
+        "type": "song",
+        "year": "2020",
+        "releaseDate": null,
+        "duration": 532,
+        "label": "Zee Music Co.",
+        "explicitContent": false,
+        "playCount": 23829439,
+        "language": "hindi",
+        "hasLyrics": true,
+        "lyricsId": null,
+        "url": "https://www.jiosaavn.com/song/hanuman-chalisa/FwBYaRMDUgI",
+        "copyright": "\u00a9 2014 Zee Music Company",
+        "album": {
+            "id": "23433283",
+            "name": "Hanuman Chalisa \u2013 Zee Music Devotional",
+            "url": "https://www.jiosaavn.com/album/hanuman-chalisa-%e2%80%93-zee-music-devotional/pL3fw5u,-n8_"
+        },
+        "artists": {
+            "primary": [
+                {
+                    "id": "455849",
+                    "name": "Anup Jalota",
+                    "role": "primary_artists",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/artists/Anup_Jalota_50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/artists/Anup_Jalota_150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/artists/Anup_Jalota_500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/anup-jalota-songs/Vo6VNzTFJBw_"
+                }
+            ],
+            "featured": [],
+            "all": [
+                {
+                    "id": "5876823",
+                    "name": "Sanjeev-Ajay",
+                    "role": "music",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/927/Bam-Bam-Bhole-Hindi-2019-20190319162923-50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/927/Bam-Bam-Bhole-Hindi-2019-20190319162923-150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/927/Bam-Bam-Bhole-Hindi-2019-20190319162923-500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/sanjeev-ajay-songs/l29R5p3-hLM_"
+                },
+                {
+                    "id": "455849",
+                    "name": "Anup Jalota",
+                    "role": "singer",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/artists/Anup_Jalota_50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/artists/Anup_Jalota_150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/artists/Anup_Jalota_500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/anup-jalota-songs/Vo6VNzTFJBw_"
+                }
+            ]
+        },
+        "image": [
+            {
+                "quality": "50x50",
+                "url": "https://c.saavncdn.com/763/Hanuman-Chalisa-Hindi-2020-20201110184901-50x50.jpg"
+            },
+            {
+                "quality": "150x150",
+                "url": "https://c.saavncdn.com/763/Hanuman-Chalisa-Hindi-2020-20201110184901-150x150.jpg"
+            },
+            {
+                "quality": "500x500",
+                "url": "https://c.saavncdn.com/763/Hanuman-Chalisa-Hindi-2020-20201110184901-500x500.jpg"
+            }
+        ],
+        "downloadUrl": [
+            {
+                "quality": "12kbps",
+                "url": "https://aac.saavncdn.com/763/df4ba0e7866768155adc8979d3903123_12.mp4"
+            },
+            {
+                "quality": "48kbps",
+                "url": "https://aac.saavncdn.com/763/df4ba0e7866768155adc8979d3903123_48.mp4"
+            },
+            {
+                "quality": "96kbps",
+                "url": "https://aac.saavncdn.com/763/df4ba0e7866768155adc8979d3903123_96.mp4"
+            },
+            {
+                "quality": "160kbps",
+                "url": "https://aac.saavncdn.com/763/df4ba0e7866768155adc8979d3903123_160.mp4"
+            },
+            {
+                "quality": "320kbps",
+                "url": "https://aac.saavncdn.com/763/df4ba0e7866768155adc8979d3903123_320.mp4"
+            }
+        ]
+    },
+    {
+        "id": "kIb_jgP2",
+        "name": "Hanuman Chalisa (Lo-fi)",
+        "type": "song",
+        "year": "2023",
+        "releaseDate": null,
+        "duration": 257,
+        "label": "Vianet Media",
+        "explicitContent": false,
+        "playCount": 11354456,
+        "language": "hindi",
+        "hasLyrics": false,
+        "lyricsId": null,
+        "url": "https://www.jiosaavn.com/song/hanuman-chalisa-lo-fi/GyEJbh5XZwE",
+        "copyright": "(P) 2023 Vianet Media",
+        "album": {
+            "id": "60424043",
+            "name": "Hanuman Chalisa (Lo-fi)",
+            "url": "https://www.jiosaavn.com/album/hanuman-chalisa-lo-fi/ZTJoa8s3hnM_"
+        },
+        "artists": {
+            "primary": [
+                {
+                    "id": "12694826",
+                    "name": "Rasraj Ji Maharaj",
+                    "role": "primary_artists",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/artists/Rasraj_Ji_Maharaj_000_20230817090010_50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/artists/Rasraj_Ji_Maharaj_000_20230817090010_150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/artists/Rasraj_Ji_Maharaj_000_20230817090010_500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/rasraj-ji-maharaj-songs/v93vvwSyTnM_"
+                }
+            ],
+            "featured": [],
+            "all": [
+                {
+                    "id": "12694826",
+                    "name": "Rasraj Ji Maharaj",
+                    "role": "music",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/artists/Rasraj_Ji_Maharaj_000_20230817090010_50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/artists/Rasraj_Ji_Maharaj_000_20230817090010_150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/artists/Rasraj_Ji_Maharaj_000_20230817090010_500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/rasraj-ji-maharaj-songs/v93vvwSyTnM_"
+                },
+                {
+                    "id": "455090",
+                    "name": "Traditional",
+                    "role": "music",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/186/Krishna-Bhajans-Hindi-2010-50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/186/Krishna-Bhajans-Hindi-2010-150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/186/Krishna-Bhajans-Hindi-2010-500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/traditional-songs/1W8p9iMeXm4_"
+                }
+            ]
+        },
+        "image": [
+            {
+                "quality": "50x50",
+                "url": "https://c.saavncdn.com/574/Hanuman-Chalisa-Lo-fi-Hindi-2023-20241211141159-50x50.jpg"
+            },
+            {
+                "quality": "150x150",
+                "url": "https://c.saavncdn.com/574/Hanuman-Chalisa-Lo-fi-Hindi-2023-20241211141159-150x150.jpg"
+            },
+            {
+                "quality": "500x500",
+                "url": "https://c.saavncdn.com/574/Hanuman-Chalisa-Lo-fi-Hindi-2023-20241211141159-500x500.jpg"
+            }
+        ],
+        "downloadUrl": [
+            {
+                "quality": "12kbps",
+                "url": "https://aac.saavncdn.com/574/f06e1cf6ca893d32b8e7821705ecc554_12.mp4"
+            },
+            {
+                "quality": "48kbps",
+                "url": "https://aac.saavncdn.com/574/f06e1cf6ca893d32b8e7821705ecc554_48.mp4"
+            },
+            {
+                "quality": "96kbps",
+                "url": "https://aac.saavncdn.com/574/f06e1cf6ca893d32b8e7821705ecc554_96.mp4"
+            },
+            {
+                "quality": "160kbps",
+                "url": "https://aac.saavncdn.com/574/f06e1cf6ca893d32b8e7821705ecc554_160.mp4"
+            },
+            {
+                "quality": "320kbps",
+                "url": "https://aac.saavncdn.com/574/f06e1cf6ca893d32b8e7821705ecc554_320.mp4"
+            }
+        ]
+    },
+    {
+        "id": "7CwLvXc6",
+        "name": "Shree Hanuman Chalisa",
+        "type": "song",
+        "year": "1992",
+        "releaseDate": null,
+        "duration": 586,
+        "label": "T-Series",
+        "explicitContent": false,
+        "playCount": 137999001,
+        "language": "hindi",
+        "hasLyrics": true,
+        "lyricsId": null,
+        "url": "https://www.jiosaavn.com/song/shree-hanuman-chalisa/RyscfQJoVAU",
+        "copyright": "\u2117 1992 Super Cassettes Industries Private Limited",
+        "album": {
+            "id": "2369982",
+            "name": "Shree Hanuman Chalisa (Hanuman Ashtak)",
+            "url": "https://www.jiosaavn.com/album/shree-hanuman-chalisa-hanuman-ashtak/-nkzmBWD3rA_"
+        },
+        "artists": {
+            "primary": [
+                {
+                    "id": "455162",
+                    "name": "Hariharan",
+                    "role": "primary_artists",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/artists/Hariharan_50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/artists/Hariharan_150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/artists/Hariharan_500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/hariharan-songs/Z2qyrGA65Yo_"
+                }
+            ],
+            "featured": [],
+            "all": [
+                {
+                    "id": "456528",
+                    "name": "Lalit Sen",
+                    "role": "music",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/489/Tulsidas-Krit-Ramayan-101-Choupaiyon-Mein-2001-50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/489/Tulsidas-Krit-Ramayan-101-Choupaiyon-Mein-2001-150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/489/Tulsidas-Krit-Ramayan-101-Choupaiyon-Mein-2001-500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/lalit-sen-songs/1CBV7pSboDY_"
+                },
+                {
+                    "id": "483250",
+                    "name": "Chander",
+                    "role": "music",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/582/Not-in-Love-Demo--English-2017-20180116133241-50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/582/Not-in-Love-Demo--English-2017-20180116133241-150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/582/Not-in-Love-Demo--English-2017-20180116133241-500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/chander-songs/D2fRpsvI0-M_"
+                },
+                {
+                    "id": "455162",
+                    "name": "Hariharan",
+                    "role": "singer",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/artists/Hariharan_50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/artists/Hariharan_150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/artists/Hariharan_500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/hariharan-songs/Z2qyrGA65Yo_"
+                },
+                {
+                    "id": "455090",
+                    "name": "Traditional",
+                    "role": "lyricist",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/186/Krishna-Bhajans-Hindi-2010-50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/186/Krishna-Bhajans-Hindi-2010-150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/186/Krishna-Bhajans-Hindi-2010-500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/traditional-songs/1W8p9iMeXm4_"
+                }
+            ]
+        },
+        "image": [
+            {
+                "quality": "50x50",
+                "url": "https://c.saavncdn.com/256/Shree-Hanuman-Chalisa-Hanuman-Ashtak-Hindi-1992-20230904173628-50x50.jpg"
+            },
+            {
+                "quality": "150x150",
+                "url": "https://c.saavncdn.com/256/Shree-Hanuman-Chalisa-Hanuman-Ashtak-Hindi-1992-20230904173628-150x150.jpg"
+            },
+            {
+                "quality": "500x500",
+                "url": "https://c.saavncdn.com/256/Shree-Hanuman-Chalisa-Hanuman-Ashtak-Hindi-1992-20230904173628-500x500.jpg"
+            }
+        ],
+        "downloadUrl": [
+            {
+                "quality": "12kbps",
+                "url": "https://aac.saavncdn.com/256/f912a4f10ab5505d5f80d7c87cdc23ab_12.mp4"
+            },
+            {
+                "quality": "48kbps",
+                "url": "https://aac.saavncdn.com/256/f912a4f10ab5505d5f80d7c87cdc23ab_48.mp4"
+            },
+            {
+                "quality": "96kbps",
+                "url": "https://aac.saavncdn.com/256/f912a4f10ab5505d5f80d7c87cdc23ab_96.mp4"
+            },
+            {
+                "quality": "160kbps",
+                "url": "https://aac.saavncdn.com/256/f912a4f10ab5505d5f80d7c87cdc23ab_160.mp4"
+            },
+            {
+                "quality": "320kbps",
+                "url": "https://aac.saavncdn.com/256/f912a4f10ab5505d5f80d7c87cdc23ab_320.mp4"
+            }
+        ]
+    },
+    {
+        "id": "Eb9_9BKF",
+        "name": "Hanuman Chalisa",
+        "type": "song",
+        "year": "2020",
+        "releaseDate": null,
+        "duration": 320,
+        "label": "T-Series",
+        "explicitContent": false,
+        "playCount": 67628196,
+        "language": "hindi",
+        "hasLyrics": true,
+        "lyricsId": null,
+        "url": "https://www.jiosaavn.com/song/hanuman-chalisa/NQpSbk1yfHU",
+        "copyright": "\u2117 2020 Super Cassettes Industries Private Limited",
+        "album": {
+            "id": "21557592",
+            "name": "Hanuman Chalisa",
+            "url": "https://www.jiosaavn.com/album/hanuman-chalisa/,QzwY3KWbPo_"
+        },
+        "artists": {
+            "primary": [
+                {
+                    "id": "3623110",
+                    "name": "Sachet Tandon",
+                    "role": "primary_artists",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/artists/Sachet_Tandon_20191129105330_50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/artists/Sachet_Tandon_20191129105330_150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/artists/Sachet_Tandon_20191129105330_500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/sachet-tandon-songs/wVwhaAx3x6c_"
+                }
+            ],
+            "featured": [],
+            "all": [
+                {
+                    "id": "702453",
+                    "name": "Bharat Goel",
+                    "role": "music",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/808/Sarcastic-Saiyaan-Hindi-2019-20190402195858-50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/808/Sarcastic-Saiyaan-Hindi-2019-20190402195858-150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/808/Sarcastic-Saiyaan-Hindi-2019-20190402195858-500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/bharat-goel-songs/OebeATJODdQ_"
+                },
+                {
+                    "id": "3623110",
+                    "name": "Sachet Tandon",
+                    "role": "singer",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/artists/Sachet_Tandon_20191129105330_50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/artists/Sachet_Tandon_20191129105330_150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/artists/Sachet_Tandon_20191129105330_500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/sachet-tandon-songs/wVwhaAx3x6c_"
+                },
+                {
+                    "id": "455090",
+                    "name": "Traditional",
+                    "role": "lyricist",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/186/Krishna-Bhajans-Hindi-2010-50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/186/Krishna-Bhajans-Hindi-2010-150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/186/Krishna-Bhajans-Hindi-2010-500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/traditional-songs/1W8p9iMeXm4_"
+                }
+            ]
+        },
+        "image": [
+            {
+                "quality": "50x50",
+                "url": "https://c.saavncdn.com/980/Hanuman-Chalisa-Hindi-2020-20200720214001-50x50.jpg"
+            },
+            {
+                "quality": "150x150",
+                "url": "https://c.saavncdn.com/980/Hanuman-Chalisa-Hindi-2020-20200720214001-150x150.jpg"
+            },
+            {
+                "quality": "500x500",
+                "url": "https://c.saavncdn.com/980/Hanuman-Chalisa-Hindi-2020-20200720214001-500x500.jpg"
+            }
+        ],
+        "downloadUrl": [
+            {
+                "quality": "12kbps",
+                "url": "https://aac.saavncdn.com/980/193fd528109900510f023867877ca41e_12.mp4"
+            },
+            {
+                "quality": "48kbps",
+                "url": "https://aac.saavncdn.com/980/193fd528109900510f023867877ca41e_48.mp4"
+            },
+            {
+                "quality": "96kbps",
+                "url": "https://aac.saavncdn.com/980/193fd528109900510f023867877ca41e_96.mp4"
+            },
+            {
+                "quality": "160kbps",
+                "url": "https://aac.saavncdn.com/980/193fd528109900510f023867877ca41e_160.mp4"
+            },
+            {
+                "quality": "320kbps",
+                "url": "https://aac.saavncdn.com/980/193fd528109900510f023867877ca41e_320.mp4"
+            }
+        ]
+    },
+    {
+        "id": "XX3TmOiE",
+        "name": "Hanuman Chalisa",
+        "type": "song",
+        "year": "2013",
+        "releaseDate": null,
+        "duration": 530,
+        "label": "T-Series",
+        "explicitContent": false,
+        "playCount": 4498999,
+        "language": "telugu",
+        "hasLyrics": false,
+        "lyricsId": null,
+        "url": "https://www.jiosaavn.com/song/hanuman-chalisa/KDBYZRl-XnY",
+        "copyright": "\u00a9  2013 T-Series",
+        "album": {
+            "id": "1229628",
+            "name": "Hanuman Chalisa",
+            "url": "https://www.jiosaavn.com/album/hanuman-chalisa/zB3fDXSaNUY_"
+        },
+        "artists": {
+            "primary": [
+                {
+                    "id": "482961",
+                    "name": "D.V. Ramani",
+                    "role": "primary_artists",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/598/Kandha-Sasti-Kavasam-Tamil-2019-20190705144405-50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/598/Kandha-Sasti-Kavasam-Tamil-2019-20190705144405-150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/598/Kandha-Sasti-Kavasam-Tamil-2019-20190705144405-500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/d.v.-ramani-songs/m2zsKelpiG4_"
+                }
+            ],
+            "featured": [],
+            "all": [
+                {
+                    "id": "482961",
+                    "name": "D.V. Ramani",
+                    "role": "music",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/598/Kandha-Sasti-Kavasam-Tamil-2019-20190705144405-50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/598/Kandha-Sasti-Kavasam-Tamil-2019-20190705144405-150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/598/Kandha-Sasti-Kavasam-Tamil-2019-20190705144405-500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/d.v.-ramani-songs/m2zsKelpiG4_"
+                },
+                {
+                    "id": "586086",
+                    "name": "Unni Krishnan",
+                    "role": "singer",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/artists/P_Unnikrishnan_50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/artists/P_Unnikrishnan_150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/artists/P_Unnikrishnan_500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/unni-krishnan-songs/uxOVQWd0,QM_"
+                },
+                {
+                    "id": "711875",
+                    "name": "Tulasi Das",
+                    "role": "singer",
+                    "image": [],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/tulasi-das-songs/5SMltTzodhw_"
+                },
+                {
+                    "id": "663555",
+                    "name": "Srinivas Das",
+                    "role": "lyricist",
+                    "image": [],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/srinivas-das-songs/I1h9kMoXVOk_"
+                }
+            ]
+        },
+        "image": [
+            {
+                "quality": "50x50",
+                "url": "https://c.saavncdn.com/625/Hanuman-Chalisa-Telugu-2013-50x50.jpg"
+            },
+            {
+                "quality": "150x150",
+                "url": "https://c.saavncdn.com/625/Hanuman-Chalisa-Telugu-2013-150x150.jpg"
+            },
+            {
+                "quality": "500x500",
+                "url": "https://c.saavncdn.com/625/Hanuman-Chalisa-Telugu-2013-500x500.jpg"
+            }
+        ],
+        "downloadUrl": [
+            {
+                "quality": "12kbps",
+                "url": "https://aac.saavncdn.com/625/d5badc1de7aa88c0b7ac298fdb1c0364_12.mp4"
+            },
+            {
+                "quality": "48kbps",
+                "url": "https://aac.saavncdn.com/625/d5badc1de7aa88c0b7ac298fdb1c0364_48.mp4"
+            },
+            {
+                "quality": "96kbps",
+                "url": "https://aac.saavncdn.com/625/d5badc1de7aa88c0b7ac298fdb1c0364_96.mp4"
+            },
+            {
+                "quality": "160kbps",
+                "url": "https://aac.saavncdn.com/625/d5badc1de7aa88c0b7ac298fdb1c0364_160.mp4"
+            },
+            {
+                "quality": "320kbps",
+                "url": "https://aac.saavncdn.com/625/d5badc1de7aa88c0b7ac298fdb1c0364_320.mp4"
+            }
+        ]
+    }
+]
